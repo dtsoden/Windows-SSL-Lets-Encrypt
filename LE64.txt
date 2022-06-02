@@ -1,0 +1,1 @@
+le64 --key account.key --email "<<Your Email>>" --csr domain.csr --csr-key domain.key --crt domain.crt --generate-missing --domains "<<Your Domain>>" --export-pfx <<Your Password>> --handle-as dns --live
